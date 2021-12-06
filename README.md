@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Maxray! 
 
-- 🔭 I’m currently working on learning my way around NASA's Horizon's API
-- 🌱 I’m currently learning Spring
-- 💬 Ask me about pursuit-evasion games in polygonal environments
+- 🔭 I’m currently working on a web application to help astrologers write readings
+- 🌱 I’m currently learning Spring Boot
+- 
